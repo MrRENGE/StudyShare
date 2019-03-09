@@ -1,2 +1,3 @@
-# StudyShare
-前端学习伙伴之间的学习分享
+# Study Share
+-  2019-3-9
+  - git 学习 
